@@ -2,8 +2,15 @@
 
 This project uses **OpenAI** for text embeddings and chat completions, and **Supabase** for storing and retrieving semantically relevant podcast episodes.
 
+### Console result:
 <kdb>
   <img width="1727" alt="Screenshot 2025-03-01 at 12 26 51 PM" src="https://github.com/user-attachments/assets/02e318b5-c4da-428d-b7da-64b13c44f5bc" />
+</kdb>
+
+
+### Supabase (podcasts info db):
+<kdb>
+  <img width="1132" alt="Screenshot 2025-03-01 at 12 28 01 PM" src="https://github.com/user-attachments/assets/f7ce86b3-ba86-4561-a73c-44c267b4362b" />
 </kdb>
 
 ## 📌 Features
